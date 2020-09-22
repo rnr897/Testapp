@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Testapp"
+    }
+  },
+  "defaultProject": "Testapp",
+  "cli": {
+    "analytics": false
+  }
 }
